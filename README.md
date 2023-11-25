@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mohideen
-- 👀 I’m interested in building MVPs in Martech and Data Space
-- 💞️ I’m looking to collaborate on Data and Martech Projects
+- 👀 Currently building MVPs in Martech and Data Space
 - 📫 How to reach me ...
 
 <!---
